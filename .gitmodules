@@ -1,0 +1,9 @@
+[submodule "UnityDataSaver"]
+	path = UnityDataSaver
+	url = https://github.com/UmairSaifullah01/UnityDataSaver.git
+[submodule "VirtualCurrency"]
+	path = VirtualCurrency
+	url = https://github.com/UmairSaifullah01/VirtualCurrency.git
+[submodule "CoroutineHandler"]
+	path = CoroutineHandler
+	url = https://github.com/UmairSaifullah01/CoroutineHandler.git
