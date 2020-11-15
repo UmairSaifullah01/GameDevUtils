@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace UMGS
+namespace GameDevUtils
 {
 
 
